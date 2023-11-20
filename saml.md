@@ -1,7 +1,5 @@
 # SAML CPPM Guide
 
-## CPPM 
-
 ### Login Page
 
 Menu -> Guest -> Configuration -> Pages -> Web Login -> Create New
