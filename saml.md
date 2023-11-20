@@ -26,6 +26,8 @@ Menu -> Policy Manager -> Administration -> Certificates -> Certificate Store ->
 
 Certificate Type: SAML Certificate
 
+CN: kelompok-n
+
 Private Key Password: *
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/e7c5620c-f6d5-4828-8ede-ef9ebfbd7e2c)
