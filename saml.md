@@ -1,6 +1,6 @@
 # SAML CPPM Guide
 
-### Login Page
+## Login Page
 
 Menu -> Guest -> Configuration -> Pages -> Web Login -> Create New
 
@@ -18,7 +18,7 @@ Vendor: Single Sign-on - SAML Identity Provider
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/90c54fdf-d81e-4f97-a4e7-c060ee18c976)
 
-### SAML Cert
+## SAML Cert
 
 Menu -> Policy Manager -> Administration -> Certificates -> Certificate Store -> Create Sefl-Signed Certificate
 
@@ -34,7 +34,7 @@ Private Key Password: *
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/5e941fb3-b3c3-4988-a788-ab3aff94fddc)
 
-### SAML IdP
+## SAML IdP
 
 Menu -> Policy Manager -> Configuration -> Identyty -> Single Sign-On -> SAML IdP Configuration -> Add Web Login Configuration
 
@@ -46,7 +46,7 @@ Identity Provider (IdP) Signing Certificate: kelompok-n
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/64d0383d-b474-4178-a3b5-1224a2aa16d2)
 
-### SAML Metadata
+## SAML Metadata
 
 https://sptest.iamshowcase.com/
 
@@ -86,7 +86,7 @@ Upload IdP Metadata to https://sptest.iamshowcase.com/instructions#start
 
 Copy link to somewhere = SP Link
 
-### SAML Services
+## SAML Services
 
 Menu -> Policy Manager -> Configuration -> Service Templates & Wizard -> ClearPass Identity Provider (SAML IdP Service)
 
@@ -120,7 +120,7 @@ Value: https://demo.aruba-id-edu.com/guest/kelompok-n.php
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/88609f1e-5e29-4e76-8fe4-c3d53c061386)
 
-### SAML Test
+## SAML Test
 
 Open SP Link
 
