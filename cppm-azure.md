@@ -2,7 +2,45 @@
 
 ### SSID
 
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/917dd7de-ed0e-41af-9a5b-d6b7fe25da0a)
 
+Group -> Devices -> Config -> Add SSID
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/b17cf7fd-1d3b-4ef5-92bc-fd674bbae42c)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/531f3776-bdf6-4571-8d7a-388323d8a04c)
+
+Add Captive Portal
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/a14a0127-f485-4f8a-83c8-e33788fca38f)
+
+Add Primary Server
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/89b1bc69-5784-44d5-a1a0-e8cd570d9b53)
+
+Key Management: Open
+
+Access: Role Based
+
+Create Microsoft Portal Role
+
+Whitelist:
+
+login.microsoftonline.com
+
+*.aadcdn.microsoftonline-p.com
+
+*.msauth.com
+
+*.windowsazure.com
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/fd2f5bfc-b7b0-4e72-863c-725dfd9bb0bc)
+
+Assign Pre-Authentication Role
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/1ab2caee-77c2-4dfc-83ec-382d052f8464)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/127f919e-0a3b-4655-b50e-a1e7e4d5e767)
 
 ### Login Page
 
