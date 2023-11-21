@@ -6,15 +6,27 @@
 
 Group -> Devices -> Config -> Add SSID
 
+n= no kelompok
+
+SSID: cloud-n
+
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/b17cf7fd-1d3b-4ef5-92bc-fd674bbae42c)
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/531f3776-bdf6-4571-8d7a-388323d8a04c)
 
 Add Captive Portal
 
+Hostname: demo.aruba-id-edu.com
+
+URL: /guest/cloud-n.php
+
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/a14a0127-f485-4f8a-83c8-e33788fca38f)
 
 Add Primary Server
+
+IP: 10.234.23.41
+
+Shared Secret: aruba123
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/89b1bc69-5784-44d5-a1a0-e8cd570d9b53)
 
