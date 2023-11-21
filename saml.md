@@ -108,6 +108,8 @@ Attribute Value: User or DN
 
 Menu -> Policy Manager -> Configuration -> Service -> saml-kelompok-n
 
+Service Tab
+
 Add this condition:
 
 Type: Application:ClearPass	
@@ -119,6 +121,12 @@ Operator: EQUALS
 Value: https://demo.aruba-id-edu.com/guest/kelompok-n.php
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/88609f1e-5e29-4e76-8fe4-c3d53c061386)
+
+Authentication Tab
+
+Add another Authentication Source
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/f35e81d9-99c8-420b-a182-9e32a9678e56)
 
 ## SAML Test
 
