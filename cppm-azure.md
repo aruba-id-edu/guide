@@ -138,6 +138,10 @@ save
 
 ## Connect to SSID
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/520a38c4-74c8-4de9-9f68-55f54ce57ce7)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/20dd82b5-cd72-4b7b-8f81-c4896da31e8f)
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/9cb888f3-fb7c-4f0d-b703-c24480186279)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/2db20937-5046-4b1a-b8f4-911799aefe41)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/67dd46cd-88f3-4063-b6f0-82b4f668d719)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/3ad4ff9b-89df-428a-a82d-0634171b4ac5)
