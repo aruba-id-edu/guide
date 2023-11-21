@@ -12,6 +12,8 @@ SSID: cloud-n
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/b17cf7fd-1d3b-4ef5-92bc-fd674bbae42c)
 
+VLAN: 1
+
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/531f3776-bdf6-4571-8d7a-388323d8a04c)
 
 Add Captive Portal
@@ -32,7 +34,11 @@ Shared key: aruba123
 
 Key Management: Open
 
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/ed2587d0-3bf5-49d0-86e7-8a46c6250bd6)
+
 Access: Role Based
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/0435ca7d-c684-46a5-8652-f44c4b609862)
 
 Create Microsoft Portal Role
 
@@ -112,8 +118,6 @@ Menu -> Policy Manager -> Configuration -> Service -> cloud-n
 
 Service Tab
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/206331d1-3e60-4c08-9b08-61bdc2b97c8c)
-
 Add this condition:
 
 Type: Radius:Aruba
@@ -126,25 +130,29 @@ Value: cloud-n
 
 Roles Tab
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/db334127-17cb-4776-ae9a-624f9c200880)
-
 Role Mapping Policy: --Select--
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/206331d1-3e60-4c08-9b08-61bdc2b97c8c)
+
+Roles Tab
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/db334127-17cb-4776-ae9a-624f9c200880)
 
 Enforcement Tab
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/59bfdb0e-2ca4-4a83-b062-ff9c47fda5a9)
-
 Modify Enforcement Policy
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/b8bd5e40-c1d4-4437-b4a3-36ff9dcb02c5)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/59bfdb0e-2ca4-4a83-b062-ff9c47fda5a9)
 
 Rules Tab
 
 Edit 1st condition
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/c00e4d3c-c2f2-40cb-a830-398f454dd4b3)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/b8bd5e40-c1d4-4437-b4a3-36ff9dcb02c5)
 
 Change google to azure
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/c00e4d3c-c2f2-40cb-a830-398f454dd4b3)
 
 save
 
