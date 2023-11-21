@@ -136,3 +136,6 @@ Change google to azure
 
 save
 
+## Connect to SSID
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/9cb888f3-fb7c-4f0d-b703-c24480186279)
