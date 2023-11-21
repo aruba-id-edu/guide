@@ -38,13 +38,13 @@ Private Key Password: *
 
 Menu -> Policy Manager -> Configuration -> Identyty -> Single Sign-On -> SAML IdP Configuration -> Add Web Login Configuration
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/96c510e1-96c3-40ea-8f91-9d36f32fe3bc)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/64d0383d-b474-4178-a3b5-1224a2aa16d2)
 
 Page Name: kelompok-n
 
 Identity Provider (IdP) Signing Certificate: kelompok-n
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/64d0383d-b474-4178-a3b5-1224a2aa16d2)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/96c510e1-96c3-40ea-8f91-9d36f32fe3bc)
 
 ## SAML Metadata
 
@@ -56,9 +56,9 @@ https://sptest.iamshowcase.com/instructions#start
 
 download SP metadata
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/ee664fc2-fc90-4906-a3df-943914016b85)
-
 https://sptest.iamshowcase.com/testsp_metadata.xml
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/ee664fc2-fc90-4906-a3df-943914016b85)
 
 Menu -> Policy Manager -> Configuration -> Identity -> Single Sign-On -> SAML IdP Configuration -> Add SP Metadata
 
