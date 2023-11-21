@@ -2,7 +2,7 @@
 
 n= no urut
 
-<details open>
+<details close>
   <summary>no urut</summary>
   
   ![image](https://github.com/aruba-id-edu/guide/assets/137608707/cab063cd-fdad-4206-92ce-250bb71c41db)
@@ -17,7 +17,7 @@ n= no urut
 
 # Password
 
-<details open>
+<details close>
   <summary>password</summary>
   aruba123-n
 </details>
