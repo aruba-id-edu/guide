@@ -1,6 +1,6 @@
 # CPPM-Azure
 
-### SSID
+## SSID
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/917dd7de-ed0e-41af-9a5b-d6b7fe25da0a)
 
@@ -54,7 +54,7 @@ Assign Pre-Authentication Role
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/127f919e-0a3b-4655-b50e-a1e7e4d5e767)
 
-### Login Page
+## Login Page
 
 Menu -> Guest -> Configuration -> Pages -> Web Login -> Create New
 
@@ -94,7 +94,7 @@ Group Membership: yes
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/c3af5a6d-c078-44a3-aa36-07e08b58fd9a)
 
-### Captive Portal Service
+## Captive Portal Service
 
 Menu -> Policy Manager -> Configuration -> Service Templates & Wizard -> Cloud Identity / Social Media Authentication
 
