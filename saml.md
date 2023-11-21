@@ -130,10 +130,10 @@ Add another Authentication Source
 
 ## SAML Test
 
-Open SP Link
+Open SP Link and login
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/3cd4dce2-82dc-4c6f-a752-f324390cae44)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/5f5dc4df-8b6f-46f7-9c82-3868fb4170d7)
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/c503a911-2524-4b71-be5f-90d03292d292)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/f5fe933d-1544-413c-a01a-54445fa38ab2)
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/b17bed55-9723-43c7-9df5-9699156c66eb)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/cee2c3ad-89f7-425f-a068-73225953e0af)
