@@ -86,7 +86,7 @@ Upload IdP Metadata to https://sptest.iamshowcase.com/instructions#start
 
 Copy link to somewhere = SP Link
 
-## SAML Services
+## SAML Service
 
 Menu -> Policy Manager -> Configuration -> Service Templates & Wizard -> ClearPass Identity Provider (SAML IdP Service)
 
