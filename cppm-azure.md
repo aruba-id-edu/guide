@@ -26,7 +26,7 @@ Add Primary Server
 
 IP: 10.234.23.41
 
-Shared Secret: aruba123
+Shared key: aruba123
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/89b1bc69-5784-44d5-a1a0-e8cd570d9b53)
 
