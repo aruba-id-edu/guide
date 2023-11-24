@@ -16,6 +16,14 @@ VLAN: 1
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/531f3776-bdf6-4571-8d7a-388323d8a04c)
 
+Security Level: Visitors
+
+Type: External Captive Portal
+
+Key Management: Open
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/ed2587d0-3bf5-49d0-86e7-8a46c6250bd6)
+
 Add Captive Portal
 
 Hostname: demo.aruba-id-edu.com
@@ -32,9 +40,6 @@ Shared key: aruba123
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/89b1bc69-5784-44d5-a1a0-e8cd570d9b53)
 
-Key Management: Open
-
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/ed2587d0-3bf5-49d0-86e7-8a46c6250bd6)
 
 Access: Role Based
 
