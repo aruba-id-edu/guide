@@ -7,7 +7,6 @@ n= no urut
   
 </details>
 
-
 ## AD: kelompok-n
 
 ## Azure: kelompok-n@aruba-id-edu.com
@@ -18,5 +17,5 @@ n= no urut
 
 <details close>
   <summary>password</summary>
-  aruba123-n
+
 </details>
