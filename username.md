@@ -9,9 +9,9 @@ n= no urut
 
 ## AD: kelompok-n
 
-## Azure: kelompok-n@aruba-id-edu.com
-
 ## LDAP: ldap-kelompok-n
+
+## Azure: kelompok-n@aruba-id-edu.com
 
 # Password
 
