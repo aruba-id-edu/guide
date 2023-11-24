@@ -159,8 +159,6 @@ Change google to azure
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/c00e4d3c-c2f2-40cb-a830-398f454dd4b3)
 
-save
-
 ## Connect to SSID
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/20dd82b5-cd72-4b7b-8f81-c4896da31e8f)
