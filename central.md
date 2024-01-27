@@ -63,7 +63,71 @@
 
 ## [Aruba Installer](https://www.arubanetworks.com/techdocs/central/latest/content/nms/install-manager/install-manager.htm)
 
-![image](https://github.com/aruba-id-edu/guide/assets/137608707/a6e930cc-fa64-49b6-9741-6935c5031b16)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/471a1a38-b3c6-4d6f-8036-996589d34b39)
 
 <br>
 
+## [Provision Switch CX](https://www.arubanetworks.com/techdocs/central/latest/content/nms/aos-cx/get-started/quick-start-switch-cx.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/d26f90e6-b05f-4d74-8aec-c2e53afaf56a)
+
+<br>
+
+## [Config Switch CX](https://www.arubanetworks.com/techdocs/central/latest/content/nms/aos-cx/cfg/conf-cx-ui-groups.htm)
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/a910ceea-a0a2-4439-8f25-018d0f206f55)
+
+<br>
+
+## [Provision Access Points](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/aps/aos10-conf_ap.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/91f93505-fa44-4260-b717-696cef54501e)
+
+<br>
+
+## [Config Access Points](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/aps/aos10-conf_ap.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/6917809f-f51d-4889-8bff-6a584599a393)
+
+<br>
+
+## [WLAN Deployment](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/aps/conf_wlan_ssid.htm)
+
+[Bridge mode](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/bridge-mod-dep/cfg-wlan-bridge.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/5b739cf9-e02f-45aa-95e0-29a51e22e255)
+
+[Tunnel mode](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/tunnel-mixed-mode-dep/cfg-wlan-overlay.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/dbd0e0eb-878c-4826-9f70-37d6a39eb8b6)
+
+<br>
+
+## [Enterprise Security](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/bridge-mod-dep/cfg-security-bridge-ent.htm)
+
+[Configure AAA Server](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/bridge-mod-dep/cfg-external-auth.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/9a3a4e04-dffb-4958-a85f-905f778e4536)
+
+<br>
+
+## [Guests Access](https://www.arubanetworks.com/techdocs/central/latest/content/nms/landing-pages/guests.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/e01b3278-fc69-4fcb-8404-fe51cf7b50f2)
+
+<br>
+
+## [Cloud Authentication](https://www.arubanetworks.com/techdocs/central/latest/content/nms/policy/ca-overview.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/3cd66cd7-fd14-4877-b021-1428523c5ce0)
+
+<br>
+
+## [Logs](https://www.arubanetworks.com/techdocs/central/latest/content/nms/alerts/alerts.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/69ab78e6-5781-4f40-9729-fca1283b43e4)
+
+<br>
+
+## [Troubleshooting](https://www.arubanetworks.com/techdocs/central/latest/content/nms/trblshooting-tools/troublehooting-tools.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/3ec7ead7-716e-4c01-ab94-ec42ce5ab4c4)
