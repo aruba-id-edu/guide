@@ -76,6 +76,15 @@
 ## [Config Switch CX](https://www.arubanetworks.com/techdocs/central/latest/content/nms/aos-cx/cfg/conf-cx-ui-groups.htm)
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/a910ceea-a0a2-4439-8f25-018d0f206f55)
 
+### VLAN
+
+<details close>
+  <summary>VLAN</summary>
+untagged: default
+  
+  tagged: 24
+</details>
+
 <br>
 
 ## [Provision Access Points](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/aps/aos10-conf_ap.htm)
@@ -105,6 +114,13 @@
 ## [Enterprise Security](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/bridge-mod-dep/cfg-security-bridge-ent.htm)
 
 [Configure AAA Server](https://www.arubanetworks.com/techdocs/central/latest/content/aos10x/cfg/bridge-mod-dep/cfg-external-auth.htm)
+
+### Radius Secret
+
+<details close>
+  <summary>Secret</summary>
+aruba123
+</details>
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/9a3a4e04-dffb-4958-a85f-905f778e4536)
 
