@@ -122,6 +122,12 @@
 
 <br>
 
+## [AI Insights]([https://www.arubanetworks.com/resource/aiops-solution-overview/](https://www.arubanetworks.com/techdocs/central/latest/content/nms/insights/viewing-insights.htm))
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/f0275054-9ca9-4f73-a790-24d1767d309d)
+
+<br>
+
 ## [Logs](https://www.arubanetworks.com/techdocs/central/latest/content/nms/alerts/alerts.htm)
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/69ab78e6-5781-4f40-9729-fca1283b43e4)
@@ -131,3 +137,9 @@
 ## [Troubleshooting](https://www.arubanetworks.com/techdocs/central/latest/content/nms/trblshooting-tools/troublehooting-tools.htm)
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/3ec7ead7-716e-4c01-ab94-ec42ce5ab4c4)
+
+<br>
+
+## [Reports](https://www.arubanetworks.com/techdocs/central/latest/content/nms/reports/reports.htm)
+
+![image](https://github.com/aruba-id-edu/guide/assets/137608707/6b85d430-233f-46c7-9ca8-0decd12692f5)
