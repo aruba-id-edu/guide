@@ -1,3 +1,12 @@
+# Radius Secret
+
+<details close>
+  <summary>password</summary>
+aruba123
+</details>
+
+<br>
+
 # Username
 
 ## n= no urut
