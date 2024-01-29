@@ -138,7 +138,7 @@ aruba123
 
 <br>
 
-## [AI Insights](https://www.arubanetworks.com/resource/aiops-solution-overview/](https://www.arubanetworks.com/techdocs/central/latest/content/nms/insights/viewing-insights.htm)
+## [AI Insights](https://www.arubanetworks.com/techdocs/central/latest/content/nms/insights/viewing-insights.htm)
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/f0275054-9ca9-4f73-a790-24d1767d309d)
 
