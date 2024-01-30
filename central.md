@@ -1,5 +1,7 @@
 # https://github.com/aruba-id-edu/guide/
 
+# https://demo.aruba-id-edu.com/
+
 # Aruba Central Hands-on
 
 <br>
