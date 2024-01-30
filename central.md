@@ -80,9 +80,9 @@
 
 <details close>
   <summary>VLAN</summary>
-untagged: default
+untagged: any
   
-  tagged: 24
+  tagged: 23
 </details>
 
 <br>
