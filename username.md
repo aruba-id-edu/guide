@@ -4,7 +4,6 @@
 
 <details close>
   <summary>no urut</summary>
-  
 </details>
 
 ## AD: kelompok-n
@@ -19,5 +18,4 @@
 
 <details close>
   <summary>password</summary>
-aruba123-n
 </details>
