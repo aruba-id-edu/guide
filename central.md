@@ -150,4 +150,4 @@
 
 ## [VSG](https://www.arubanetworks.com/techdocs/VSG/)
 
-## [sVRD](https://www.arubanetworks.com/vrd/VHD_VRD_Collection/wwhelp/wwhimpl/js/html/wwhelp.htm#href=VHD_VRD_PG.html)
+## [VRD](https://www.arubanetworks.com/vrd/VHD_VRD_Collection/wwhelp/wwhimpl/js/html/wwhelp.htm#href=VHD_VRD_PG.html)
