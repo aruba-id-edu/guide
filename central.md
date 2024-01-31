@@ -143,3 +143,11 @@
 ## [Reports](https://www.arubanetworks.com/techdocs/central/latest/content/nms/reports/reports.htm)
 
 ![image](https://github.com/aruba-id-edu/guide/assets/137608707/6b85d430-233f-46c7-9ca8-0decd12692f5)
+
+<br>
+
+# Additional Resources
+
+## [VSG](https://www.arubanetworks.com/techdocs/VSG/)
+
+## (VRD)(https://www.arubanetworks.com/vrd/VHD_VRD_Collection/wwhelp/wwhimpl/js/html/wwhelp.htm#href=VHD_VRD_PG.html)
