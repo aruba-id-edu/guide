@@ -62,12 +62,91 @@ Minimum supported AOS-CX firmware version 10.04
 
 Enable REST on your AOS-CX device with the following commands:
 
->switch(config)# https-server rest access-mode read-write
-
->switch(config)# https-server vrf mgmt
+```
+switch(config)# https-server rest access-mode read-write
+switch(config)# https-server vrf mgmt
+```
 
 Install Guide: https://developer.arubanetworks.com/aruba-aoscx/docs/getting-started-with-ansible-and-aos-cx
 
 
 # Ansible and OS-CX
 
+FYI:
+
+https://github.com/aruba-id-edu/ansible-aruba-sw-cx
+
+## Backup Config
+
+```
+---
+- name: backup config aruba switch cx
+  hosts: switch-lab
+  collections:
+    - arubanetworks.aoscx
+
+  vars:
+    ansible_connection: network_cli
+    ansible_network_os: arubanetworks.aoscx.aoscx
+    #ansible_username: 
+    #ansible_password:
+
+  tasks:  
+  - name: running show running-config
+    aoscx_command:
+      commands:
+        - show run
+    register: output
+
+  - name: save file
+    copy:
+      content: "{{ output.stdout | join('\n') }}"
+      dest: "./{{ inventory_hostname }}.cfg"
+```
+
+## Change VLAN
+
+```
+---
+- name: add vlan aruba switch cx
+  hosts: switch-lab
+  collections:
+    - arubanetworks.aoscx
+
+  vars:
+    ansible_connection: network_cli
+    ansible_network_os: arubanetworks.aoscx.aoscx
+    #ansible_user:
+    #ansible_password:
+
+  tasks:
+  - name: create vlan
+    aoscx_command:
+      commands:
+        - configure terminal
+        - vlan {{new_vlans}}
+        - end
+  - name: trunk port
+    aoscx_command:
+      commands:
+        - configure terminal
+        - interface {{item}}
+        - no routing
+        - vlan trunk allowed {{trunk}}
+        - vlan trunk native {{native}}
+        - end
+    loop: "{{trunk_port}}" 
+  - name: access port
+    aoscx_command:
+      commands:
+        - configure terminal
+        - interface {{item}}
+        - no routing
+        - vlan access {{access}}
+        - end
+    loop: "{{access_port}}"
+  - name: save configuration
+    aoscx_command:
+      commands:
+        - write mem
+```
