@@ -42,7 +42,7 @@ https://github.com/aruba/aoscx-ansible-collection
 
 https://github.com/aruba/aoscx-ansible-workflows
 
-# Install Ansible
+## Install Ansible
 
 Ansible Prerequisites:
 
@@ -50,7 +50,7 @@ Python 3.5 or later
 
 Install Guide: https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installation-guide
 
-# Install OS-CX Collection
+## Install OS-CX Collection
 
 OS-CX Collection Prerequisites:
 
@@ -68,7 +68,6 @@ switch(config)# https-server vrf mgmt
 ```
 
 Install Guide: https://developer.arubanetworks.com/aruba-aoscx/docs/getting-started-with-ansible-and-aos-cx
-
 
 # Ansible and OS-CX
 
